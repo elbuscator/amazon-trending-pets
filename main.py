@@ -61,7 +61,6 @@ USER_AGENTS = [
 
 URLS = [
     CATEGORY_URL,
-    "https://www.amazon.es/Best-Sellers-Mascotas/zgbs/pet-supplies",
 ]
 
 
